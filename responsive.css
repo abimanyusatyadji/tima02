@@ -1,0 +1,11 @@
+@media (max-width:670px){
+    .header-nav{
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+    .header-flex{
+        justify-content: space-between;
+    }
+}
